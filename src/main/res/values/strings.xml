@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Capital Shares</string>
+    <string name="title_activity_stock_info_screen">StockInfoScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about_us">Welcome to Capital Shares! Our app provides up-to-date stock market info to help you make informed investment decisions. Our team consists of experienced finance professionals who ensure the accuracy and reliability of our data. We`re committed to transparency and improving your user experience. Thank you for choosing us as your go-to source for stock market updates. </string>
+</resources>
